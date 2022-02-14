@@ -1,0 +1,22 @@
+{
+  "name": "Test3",
+  "version": "0.1.0",
+  "summary": "A short description of Test3.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/BitmaxTongbin/Test3",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BitmaxTongbin": "bin.tong@ascendex.io"
+  },
+  "source": {
+    "git": "https://github.com/BitmaxTongbin/Test3.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Test3/Classes/**/*"
+}
